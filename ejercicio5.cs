@@ -15,17 +15,25 @@ internal class Program
 
     public static void ContarFlores(int[][] jardin)
     {
-        int [] colores = jardin[0];
+        int [] colores = new int[5];
+        for (int i = 0; i < 5; i++)
+        {
+            colores[i] = 0;
+        }
 
-        int color1 = 0;
-        int color2 = 0;
-        int color3 = 0;
-        int color4 = 0;
+        
 
         for (int i = 0; i <jardin.Length; i++)
         {
             for (int j = 0; j < jardin[i].Length; j++)
             {
+                colores[jardin[i][j]]++;
+                /*
+        int color1 = 0;
+        int color2 = 0;
+        int color3 = 0;
+        int color4 = 0;
+
                 switch (jardin[i][j])
                 {
                     case 1: color1++;
@@ -36,6 +44,7 @@ internal class Program
                     break;
                     case 4: color4++;
                     break;
+                    */
                 }
             }
         }
