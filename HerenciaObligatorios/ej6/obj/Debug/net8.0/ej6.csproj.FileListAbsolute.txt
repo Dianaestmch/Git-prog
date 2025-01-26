@@ -1,0 +1,14 @@
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/bin/Debug/net8.0/ej6
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/bin/Debug/net8.0/ej6.deps.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/bin/Debug/net8.0/ej6.runtimeconfig.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/bin/Debug/net8.0/ej6.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/bin/Debug/net8.0/ej6.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.AssemblyInfoInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.AssemblyInfo.cs
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.csproj.CoreCompileInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/refint/ej6.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ej6.genruntimeconfig.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/7. Tema/Entregar/Herencia/ej6/obj/Debug/net8.0/ref/ej6.dll
