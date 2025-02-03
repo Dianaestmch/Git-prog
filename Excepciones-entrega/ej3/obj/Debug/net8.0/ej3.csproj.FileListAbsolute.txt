@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\bin\Debug\net8.0\ej3.exe
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\bin\Debug\net8.0\ej3.deps.json
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\bin\Debug\net8.0\ej3.runtimeconfig.json
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\bin\Debug\net8.0\ej3.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\bin\Debug\net8.0\ej3.pdb
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.AssemblyInfo.cs
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\refint\ej3.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.pdb
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ej3.genruntimeconfig.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\7. Tema\Entregar\Excepciones\ej3\obj\Debug\net8.0\ref\ej3.dll
