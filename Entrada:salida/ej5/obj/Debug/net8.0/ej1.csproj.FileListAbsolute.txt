@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\bin\Debug\net8.0\ej1.exe
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\bin\Debug\net8.0\ej1.deps.json
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\bin\Debug\net8.0\ej1.runtimeconfig.json
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\bin\Debug\net8.0\ej1.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\bin\Debug\net8.0\ej1.pdb
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.AssemblyInfo.cs
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\refint\ej1.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.pdb
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ej1.genruntimeconfig.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\8. Tema\Entregar\ej5\obj\Debug\net8.0\ref\ej1.dll
