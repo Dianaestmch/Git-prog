@@ -1,0 +1,14 @@
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/bin/Debug/net8.0/ejer3
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/bin/Debug/net8.0/ejer3.deps.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/bin/Debug/net8.0/ejer3.runtimeconfig.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/bin/Debug/net8.0/ejer3.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/bin/Debug/net8.0/ejer3.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.AssemblyInfoInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.AssemblyInfo.cs
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.csproj.CoreCompileInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/refint/ejer3.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ejer3.genruntimeconfig.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/9. Tema/Entregar/Operadores/ejer3/obj/Debug/net8.0/ref/ejer3.dll
