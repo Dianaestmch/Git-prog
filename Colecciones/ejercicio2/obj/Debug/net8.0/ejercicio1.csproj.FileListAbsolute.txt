@@ -1,0 +1,14 @@
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/bin/Debug/net8.0/ejercicio1
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/bin/Debug/net8.0/ejercicio1.deps.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/bin/Debug/net8.0/ejercicio1.runtimeconfig.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/bin/Debug/net8.0/ejercicio1.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/bin/Debug/net8.0/ejercicio1.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfoInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfo.cs
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.csproj.CoreCompileInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/refint/ejercicio1.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ejercicio1.genruntimeconfig.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/10. Tema/Entregar/ejercicio1/obj/Debug/net8.0/ref/ejercicio1.dll
