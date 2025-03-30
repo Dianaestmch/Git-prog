@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfo.cs
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\bin\Debug\net8.0\ejercicio2.exe
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\bin\Debug\net8.0\ejercicio2.deps.json
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\bin\Debug\net8.0\ejercicio2.runtimeconfig.json
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\bin\Debug\net8.0\ejercicio2.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\bin\Debug\net8.0\ejercicio2.pdb
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\refint\ejercicio2.dll
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.pdb
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ejercicio2.genruntimeconfig.cache
+C:\Users\alumno\Desktop\1 DAM - DM\OneDrive - Conselleria d'Educació\1º DAM A (24 - 25)\Programación\11. Tema\Entregar\ejercicio2\obj\Debug\net8.0\ref\ejercicio2.dll
